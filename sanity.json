@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "internics"
+    "name": "internics-client"
   },
   "api": {
-    "projectId": "idyp9rct",
+    "projectId": "fdqaoni1",
     "dataset": "production"
   },
   "plugins": [
