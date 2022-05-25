@@ -16,6 +16,21 @@ export default {
       description: "The main site url.",
     },
     {
+      name: "email",
+      type: "string",
+      title: "Email",
+    },
+    {
+      name: "phone",
+      type: "string",
+      title: "Phone",
+    },
+    {
+      name: "address",
+      type: "string",
+      title: "Address",
+    },
+    {
       title: "Socials",
       name: "socials",
       description: "Social media links to be displayed in the navigation bar",

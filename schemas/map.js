@@ -2,7 +2,7 @@ import LeafletGeopointInput from "sanity-plugin-leaflet-input";
 
 export default {
   title: "Map",
-  type: "document",
+  type: "object",
   name: "map",
   fields: [
     {

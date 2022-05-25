@@ -4,11 +4,6 @@ export default {
   title: "Form",
   fields: [
     {
-      name: "label",
-      type: "string",
-      title: "Label",
-    },
-    {
       name: "heading",
       type: "string",
       title: "Heading",
@@ -19,7 +14,7 @@ export default {
       title: "Form",
       description: "Select form type",
       options: {
-        list: ["newsletter", "register", "contact"],
+        list: ["newsletter", "contact"],
       },
     },
   ],

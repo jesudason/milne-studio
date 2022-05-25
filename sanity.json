@@ -1,7 +1,8 @@
 {
   "root": true,
   "project": {
-    "name": "example-site"
+    "name": "internics",
+    "basePath": "/studio"
   },
   "api": {
     "projectId": "idyp9rct",
