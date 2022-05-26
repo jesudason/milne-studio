@@ -101,6 +101,7 @@ export default {
         { type: "blockquote" },
         { type: "tilesBlock" },
         { type: "map" },
+        { type: "featureText" },
       ],
     },
   ],

@@ -17,6 +17,7 @@ import blockquote from "./blockquote";
 import map from "./map";
 import locations from "./locations";
 import socialMedia from "./socialMedia";
+import featureText from "./featureText";
 
 // Then we give our schema to the builder and provide the result to Sanity
 export default createSchema({
@@ -36,5 +37,6 @@ export default createSchema({
     map,
     locations,
     socialMedia,
+    featureText,
   ]),
 });

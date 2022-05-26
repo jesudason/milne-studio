@@ -1,7 +1,7 @@
 export default {
-  name: "blockquote",
+  name: "featureText",
   type: "object",
-  title: "Blockquote",
+  title: "FeatureText",
   fields: [
     {
       name: "heading",
@@ -9,14 +9,9 @@ export default {
       title: "Heading",
     },
     {
-      name: "quote",
+      name: "text",
       type: "string",
-      title: "Quote",
-    },
-    {
-      name: "author",
-      type: "string",
-      title: "Author",
+      title: "Text",
     },
     {
       title: "Background Colour",
