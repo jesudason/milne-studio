@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "internics",
-=======
-  "name": "internics-client",
->>>>>>> d179f0c27c6fbee4cd164bed94849d9e9c023df0
   "private": true,
   "version": "1.0.0",
   "description": "",
