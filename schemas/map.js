@@ -10,17 +10,6 @@ export default {
       title: "Map Title",
       type: "string",
     },
-
-    {
-      name: "canZoom",
-      title: "Zoomable",
-      type: "boolean",
-    },
-    {
-      name: "canDrag",
-      title: "Draggable",
-      type: "boolean",
-    },
     {
       name: "points",
       title: "Points",
@@ -37,7 +26,10 @@ export default {
       title: "Center of map",
       description: "Default center of map if no markers are added",
       type: "geopoint",
-      validation: (Rule) => Rule.required(),
+      defaultLocation: {
+        lat: 58.63169011423141,
+        lng: 9.089101352587932,
+      },
       inputComponent: LeafletGeopointInput,
     },
     {

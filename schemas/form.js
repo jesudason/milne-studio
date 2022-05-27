@@ -17,5 +17,13 @@ export default {
         list: ["newsletter", "contact"],
       },
     },
+    {
+      title: "Background Colour",
+      name: "backgroundColor",
+      type: "string",
+      options: {
+        list: ["primary", "secondary", "tertiary", "black", "white"],
+      },
+    },
   ],
 };
