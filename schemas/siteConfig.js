@@ -10,10 +10,9 @@ export default {
       title: "Site title",
     },
     {
-      title: "URL",
-      name: "url",
-      type: "url",
-      description: "The main site url.",
+      name: "logo",
+      title: "Logo",
+      type: "image",
     },
     {
       name: "email",
