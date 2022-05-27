@@ -30,7 +30,8 @@ export default {
     {
       name: "subtitle",
       title: "Subtitle",
-      type: "string",
+      type: "text",
+      rows: 4,
     },
     {
       name: "mainImage",

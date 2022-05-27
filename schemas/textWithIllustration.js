@@ -45,5 +45,16 @@ export default {
         },
       ],
     },
+    {
+      name: "callToActionBtn",
+      type: "reference",
+      title: "Call to Action Button",
+      to: [{ type: "pages" }],
+    },
+    {
+      name: "btnText",
+      type: "string",
+      title: "Button Text",
+    },
   ],
 };
