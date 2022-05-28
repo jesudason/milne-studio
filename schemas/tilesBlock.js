@@ -45,6 +45,12 @@ export default {
       to: [{ type: "pages" }],
     },
     {
+      name: "linkAnchor1",
+      type: "string",
+      title: "1. Page anchor id",
+      description: "Add an html id to link to a page section",
+    },
+    {
       name: "tileHeading2",
       type: "string",
       title: "2. Tile Heading",
@@ -81,6 +87,12 @@ export default {
       to: [{ type: "pages" }],
     },
     {
+      name: "linkAnchor2",
+      type: "string",
+      title: "2. Page anchor id",
+      description: "Add an html id to link to a page section",
+    },
+    {
       name: "tileHeading3",
       type: "string",
       title: "3. Tile Heading",
@@ -115,6 +127,12 @@ export default {
       type: "reference",
       title: "3. URL",
       to: [{ type: "pages" }],
+    },
+    {
+      name: "linkAnchor3",
+      type: "string",
+      title: "3. Page anchor id",
+      description: "Add an html id to link to a page section",
     },
   ],
 };
