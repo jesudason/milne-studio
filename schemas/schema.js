@@ -24,8 +24,6 @@ export default createSchema({
   name: "default",
   types: schemaTypes.concat([
     pages,
-    people,
-    testimonials,
     blockquote,
     textWithIllustration,
     callToAction,
