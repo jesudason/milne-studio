@@ -33,6 +33,8 @@ export default createSchema({
     siteSettings,
     tilesBlock,
     map,
+    people,
+    testimonials,
     locations,
     socialMedia,
     featureText,
