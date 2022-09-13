@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "internics"
+    "name": "Milne Blog"
   },
   "api": {
-    "projectId": "idyp9rct",
+    "projectId": "2lfei0op",
     "dataset": "production"
   },
   "plugins": [
