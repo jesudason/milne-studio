@@ -18,6 +18,7 @@ import map from "./map";
 import locations from "./locations";
 import socialMedia from "./socialMedia";
 import featureText from "./featureText";
+import handviewer from "./handviewer";
 
 // Then we give our schema to the builder and provide the result to Sanity
 export default createSchema({
@@ -38,5 +39,6 @@ export default createSchema({
     locations,
     socialMedia,
     featureText,
+    handviewer,
   ]),
 });
