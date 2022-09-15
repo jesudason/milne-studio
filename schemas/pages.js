@@ -103,6 +103,7 @@ export default {
         { type: "tilesBlock" },
         { type: "map" },
         { type: "featureText" },
+        { type: "handviewer" },
       ],
     },
   ],
