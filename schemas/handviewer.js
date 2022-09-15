@@ -12,6 +12,28 @@ export default {
       name: "north",
       type: "string",
       title: "North",
+      fields: [
+        {
+          name: "spades",
+          type: "string",
+          title: "Spades",
+        },
+        {
+          name: "hearts",
+          type: "string",
+          title: "Hearts",
+        },
+        {
+          name: "diamonds",
+          type: "string",
+          title: "Diamonds",
+        },
+        {
+          name: "clubs",
+          type: "string",
+          title: "Clubs",
+        },
+      ],
     },
     {
       name: "south",
